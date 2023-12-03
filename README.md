@@ -42,7 +42,7 @@ Several machine learning algorithms are employed for prediction:
 Each model is trained to predict employee attrition based on selected features.
 
 ## Model Evaluation
-- Models are evaluated using performance metrics like accuracy, precision, recall, and F1-score.
+- Models are evaluated using performance metrics like accuracy, MSE,MAE,RMSE.
 - Cross-validation techniques are applied to ensure the models generalize well to unseen data.
 
 ## Usage
